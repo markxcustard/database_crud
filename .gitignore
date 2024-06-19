@@ -1,6 +1,6 @@
 # Ignore the SQLite database files
-Films/items.db
-Films/test_items.db
+items.db
+test_items.db
 
 # Ignore the __pycache__ directory
 __pycache__/
